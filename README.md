@@ -41,12 +41,12 @@
 </p>
 
 ### 📊 GitHub Stats:
-![ShekhFaisal26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShekhFaisal26&theme=radical&hide_border=false)<br/>
-![ShekhFaisal26's Stats](https://github-readme-stats.vercel.app/api?username=ShekhFaisal26&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
-![ShekhFaisal26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhFaisal26&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
+![shekhfaisal2610's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shekhfaisal2610&theme=radical&hide_border=false)<br/>
+![shekhfaisal2610's Stats](https://github-readme-stats.vercel.app/api?username=shekhfaisal2610&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![shekhfaisal2610's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfaisal2610&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ShekhFaisal26&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=shekhfaisal2610&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
 
 
